@@ -19,8 +19,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // The number of LEDs connected
 #define WS2812_DI_PIN GP20
 
-#define RGBLED_NUM 16
-#define WS2812_LED_COUNT RGBLED_NUM
 #define WS2812_BYTE_ORDER WS2812_BYTE_ORDER_RGB
 /* Mechanical locking support. Use KC_LCAP, KC_LNUM or KC_LSCR instead in keymap */
 #define LOCKING_SUPPORT_ENABLE

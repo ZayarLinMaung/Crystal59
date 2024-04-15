@@ -61,7 +61,7 @@
       "MO(1)",
       "KC_NO",
       "KC_LCTL",
-      "KC_LALT",
+      "MT(MOD_LALT,KC_LGUI)",
       "KC_NO",
       "KC_NO",
       "KC_NO",
